@@ -1,0 +1,12 @@
+asgiref==3.7.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+Django==5.0.3
+djangorestframework==3.14.0
+idna==3.7
+psycopg2==2.9.9
+pyswip @ git+https://github.com/yuce/pyswip@8eec0917c79f9414749252f0e57212c09ecdeaf9
+pytz==2024.1
+requests==2.32.2
+sqlparse==0.4.4
+urllib3==2.2.1
