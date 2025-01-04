@@ -24,7 +24,7 @@
 
 <!-- COMPONENT DIAGRAM -->
 ## Component Diagram
-<img width="400" src="![diagram_component](https://github.com/user-attachments/assets/43084dc6-82d9-4782-ada8-7c61481409a0)">
+<img width="400" src="https://github.com/user-attachments/assets/43084dc6-82d9-4782-ada8-7c61481409a0">
 ![diagram_component](https://github.com/user-attachments/assets/cc33d74d-3cc7-465f-86ec-92675fa17292)
 
 <!-- SCREENSHOTS -->
