@@ -68,13 +68,13 @@
 |     19 (общее количество: 20)    |     2.752                                                           |     2.027                                                          |     2.7                                                             |     2.054                                                          |     2.98                                                            |     2.086                                                          |
 
 
-<h3>Histogram of measurement №1</h3>
+<h3>Histogram of measurement №1 (Orange - Time without using expert system (in seconds); Blue - Time using expert system (in seconds))</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/15a03c05-d02b-4fb7-96d8-07159ad9fdb6" />
 
-<h3>Histogram of measurement №2</h3>
+<h3>Histogram of measurement №2 (Orange - Time without using expert system (in seconds); Blue - Time using expert system (in seconds))</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/4e2741f2-c52e-4cc1-9006-80afc1a75f0e" />
 
-<h3>Histogram of measurement №3</h3>
+<h3>Histogram of measurement №3 (Orange - Time without using expert system (in seconds); Blue - Time using expert system (in seconds))</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/188e93aa-47f0-4072-b957-ff328d839b98" />
 
 
