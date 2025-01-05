@@ -24,7 +24,10 @@
 
 <!-- COMPONENT DIAGRAM -->
 ## Component Diagram
-<img width="969" alt="component_diagram" src="https://github.com/user-attachments/assets/3fdf81fa-7fd3-4279-95e2-f31996bca965" />
+<h3>In Russian</h3>
+<img width="969" alt="component_diagram_rus" src="https://github.com/user-attachments/assets/dfc31d89-17c7-4381-bc0b-16f2774c609d" />
+<h3>In English</h3>
+<img width="951" alt="component_diagram_eng" src="https://github.com/user-attachments/assets/2f02849d-0df6-4bf9-85e7-0eef2733a2e4" />
 
 
 
