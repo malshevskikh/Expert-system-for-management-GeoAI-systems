@@ -40,3 +40,8 @@
 
 <!-- RESEARCH RESULT -->
 ## Research Result
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
