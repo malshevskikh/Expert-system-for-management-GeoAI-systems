@@ -41,6 +41,13 @@
 <!-- RESEARCH RESULT -->
 ## Research Result
 <h3>Time measurement table</h3>
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 | Количество копий | Исследование №1 | Исследование №2 | Исследование №3 |
 | ----------- | ----------- | ----------- | ----------- |
 | 1      | 2       | 3       | 4       |
