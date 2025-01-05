@@ -40,8 +40,8 @@
 
 <!-- RESEARCH RESULT -->
 ## Research Result
-
-| Syntax      | Description |
-| ----------- | ----------- |
+<h3>Time measurement table</h3>
+| Количество копий | Исследование №1 | Исследование №2 | Исследование №3 |
+| ----------- | ----------- | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
