@@ -33,11 +33,9 @@
 <!-- SCREENSHOTS -->
 ## Screenshots
 <h3>Screenshot with an example of launching an expert system from the activator module</h3>
-![screen1](https://github.com/user-attachments/assets/8f51405e-9c96-4d7c-806d-110b6b22cec4)
-
-
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/0c98f77f-6446-456f-879b-a1474fe1e875" />
 <h3>Screenshot of web page with table about subsystems</h3>
-![screen2](https://github.com/user-attachments/assets/f9964992-257c-4a4e-b678-cf6ca628e4d6)
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/68c9f08c-d814-465d-8df7-38b8ff94ceec" />
 
 
 <!-- RESEARCH RESULT -->
