@@ -21,7 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<h5>An expert system for managing information flows in GeoAI systems is a prototype aimed at optimizing the operation of components in a GeoAI system by reducing the number of requests between subsystems. The expert system distributes data routes between subsystems, so the subsystems receive up-to-date information on where they should send processed data.</h5>
+<h4>An expert system for managing information flows in GeoAI systems is a prototype aimed at optimizing the operation of components in a GeoAI system by reducing the number of requests between subsystems. The expert system distributes data routes between subsystems, so the subsystems receive up-to-date information on where they should send processed data.</h4>
 
 <!-- COMPONENT DIAGRAM -->
 ## Component Diagram
