@@ -24,15 +24,17 @@
 <h4>An expert system for managing information flows in GeoAI systems is a prototype aimed at optimizing the operation of components in a GeoAI system by reducing the number of requests between subsystems. The expert system distributes data routes between subsystems, so the subsystems receive up-to-date information on where they should send processed data.</h4>
 <h4>Components of the developed system:</h4>
 <ul>
-  <li>Expert system</li>
-  <li>Database</li>
-  <li>Third item
+  <li>Expert system
     <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
+      <li>Interface for interaction with an expert system</li>
+      <li>Inference machine</li>
+      <li>Knowledge base</li>
     </ul>
   </li>
-  <li>Fourth item</li>
+  <li>Database</li>
+  <li>API-Request Handler</li>
+  <li>Expert system activator module</li>
+  <li>Admin interface</li>
 </ul>
 
 <!-- COMPONENT DIAGRAM -->
