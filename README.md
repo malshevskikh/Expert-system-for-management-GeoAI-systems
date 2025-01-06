@@ -41,6 +41,9 @@
 
 <!-- RESEARCH RESULT -->
 ## Research Result
+<h4>In order to evaluate how effectively the developed expert system for managing information flows in the GeoAI system generates a route in comparison with the current solution in the GeoAI system "X", several measurements of the request processing time were carried out. Two options were considered respectively: the current solution in the system "X" and using the expert system. Measurements were made without copies of subsystems and with copies.
+Time measurements with copies were made with different numbers of copies of subsystems.</h4>
+  
 <h3>Time measurement table (in Russian)</h3>
 
 
