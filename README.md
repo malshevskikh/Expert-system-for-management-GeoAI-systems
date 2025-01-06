@@ -41,11 +41,11 @@
 
 <!-- RESEARCH RESULT -->
 ## Research Result
-<h3>Description of the research</h3>
+<h3>Description of the research:</h3>
 <h4>In order to evaluate how effectively the developed expert system for managing information flows in the GeoAI system generates a route in comparison with the current solution in the GeoAI system "X", several measurements of the request processing time were carried out. Two options were considered respectively: the current solution in the system "X" and using the expert system. Measurements were made without copies of subsystems and with copies.
 Time measurements with copies were made with different numbers of copies of subsystems.</h4>
   
-<h3>Time measurement table (in Russian)</h3>
+<h3>Time measurement table (in Russian):</h3>
 
 
 |      Количество копий            |      Исследование №1                                                |   Исследование №1                                                                 |      Исследование №2                                                |   Исследование №2                                                                 |      Исследование №3                                                |    Исследование №3                                                                |
@@ -73,13 +73,13 @@ Time measurements with copies were made with different numbers of copies of subs
 |     19 (общее количество: 20)    |     2.752                                                           |     2.027                                                          |     2.7                                                             |     2.054                                                          |     2.98                                                            |     2.086                                                          |
 
 
-<h3>Histogram of measurement №1 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds))</h3>
+<h3>Histogram of measurement №1 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds)):</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/15a03c05-d02b-4fb7-96d8-07159ad9fdb6" />
 
-<h3>Histogram of measurement №2 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds))</h3>
+<h3>Histogram of measurement №2 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds)):</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/4e2741f2-c52e-4cc1-9006-80afc1a75f0e" />
 
-<h3>Histogram of measurement №3 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds))</h3>
+<h3>Histogram of measurement №3 (Orange - time without using expert system (in seconds); Blue - time using expert system (in seconds)):</h3>
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/188e93aa-47f0-4072-b957-ff328d839b98" />
 
 
